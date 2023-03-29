@@ -24,7 +24,7 @@ The code also includes an example of how to use the trained model to predict the
 <img width="331" alt="image" src="https://user-images.githubusercontent.com/117291117/228691972-62cabad5-d53c-49ad-bb59-758b0ba392ba.png">
 <img width="331" alt="image" src="https://user-images.githubusercontent.com/117291117/228692013-9fec1fa3-6321-45e9-9cfd-3d2a94664247.png">
 
-## Similarly trained for other 5 classes having multiple images.
+### Similarly trained for other 5 classes having multiple images.
 
 # Testing data
 <img width="331" alt="image" src="https://user-images.githubusercontent.com/117291117/228690716-1e303515-1d80-487b-a657-61011dc00378.png">
